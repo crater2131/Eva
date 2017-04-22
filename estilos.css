@@ -1,0 +1,84 @@
+/* estilos sobre el contenedor mayor
+ */
+
+ #contenedorMayor{
+	 padding-top:80px;
+	 
+ }
+ 
+/*  estilos sobre el portaretrato que contendra el carrusel de imagenes
+ */ 
+ 
+ #portaRetrato{
+	 display:none;
+ }
+ 
+ 
+  #portaRetrato img{
+	  border-radius:20px;
+	  margin:auto;
+	  max-width:100%;
+  }
+ 
+ #portaRetrato > div{
+	 padding-top:30px;
+ }
+ 
+ 
+ 
+/* Estilos sobre el contenedor menor, haciendo el centrado
+ */
+ 
+ 
+ #contenedorMayor > div{
+	     width: 75%;
+    margin: auto;
+	 
+ }
+
+/* estilos sobre logo
+ */
+ 
+ #logo{
+	 text-align:center;
+	 display:none;
+	 margin-top:250px;
+	
+	 
+ }
+
+
+ 
+ 
+/*  estilos sobre el slogan */
+
+#contenedorMenor > h3{
+	text-align:center;
+	display:none;
+	font-family: 'Lato', sans-serif;
+	font-weight:bold;
+}
+
+#contenedorMenor  h3  strong{
+	color:black;
+}
+
+
+/* estilos sobre el boton de entrada */
+
+#contenedorMenor > div{
+	text-align:center;
+	display:none;
+	margin-top:20px;
+}
+
+#contenedorMenor > div > a{
+	font-family: 'Lato', sans-serif;
+	
+}
+
+/* animaciones */
+
+
+
+
